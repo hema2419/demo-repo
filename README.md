@@ -1,3 +1,4 @@
+Файл был отредактирован через портал github
 # Intro to Git
 
 ## English
